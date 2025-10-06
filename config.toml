@@ -260,7 +260,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "За мен"
-    url        = "about/about"
+    url        = "about/me"
   [[menu.main]]
     identifier = "links"
     name       = "Връзки"
