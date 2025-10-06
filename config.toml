@@ -1,6 +1,6 @@
 baseURL = "https://lambov.xyz"
-title   = "Welcome"
-languageCode = "en-us"
+title   = "Здравейте!"
+languageCode = "bg"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Welcome!"
+  homeSubtitle = "Добре дошли в личната ми страница. В процес на изграждане ..."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -131,8 +131,8 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      "Задвижвано с <a href=\"http://gohugo.io\">Hugo</a>",
+      "Направено с &#10084; от <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
@@ -244,24 +244,28 @@ disableHugoGeneratorInject = false
     url  = "https://www.stackoverflow.com/"
 
 [languages]
-  [languages.en]
+  [languages.bg]
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.en.params]
-    subtitle  = "Hello Friend NG Theme"
+  [languages.bg.params]
+    subtitle  = "Стоян Ламбов"
 
-  [languages.fr]
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.fr.params]
-    subtitle  = "Hello Friend NG Theme"
+#  [languages.fr]
+#    weight    = 2
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#  [languages.fr.params]
+#    subtitle  = "Hello Friend NG Theme"
 
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "За мен"
     url        = "about/"
   [[menu.main]]
+    identifier = "links"
+    name       = "Връзки"
+    url        = "links/"
+  [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "Блог"
     url        = "posts/"

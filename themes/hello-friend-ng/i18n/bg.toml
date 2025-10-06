@@ -1,0 +1,48 @@
+# Translations for Russian
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Превод"
+
+[postAvailable]
+other = "Създадено на "
+
+
+# 404.html
+#
+[archives]
+other = "Архив"
+
+[home]
+other = "Главна"
+
+[notFound]
+other = "Упс, страницата липсва…"
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "{{ .Count }} минута"
+few   = "{{ .Count }} минути"
+many  = "{{ .Count }} минути"
+other = "{{ .Count }} минути"
+
+[tableOfContents]
+other = "Съдържание"
+
+[wordCount]
+one   = "{{ .Count }} дума"
+few   = "{{ .Count }} думи"
+many  = "{{ .Count }} думи"
+other = "{{ .Count }} думи"
+
+[lastModified]
+other = "Обновено на"
+
+# partials/pagination-list.html
+[pagination]
+newerPosts = "По-нови публикации"
+olderPosts = "Стари публикации"
