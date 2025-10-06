@@ -6,8 +6,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Mon, 06 Oct 2025 14:53:29 +0300</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 18:54:57 +0300</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My Test 6</title>
+            <link>http://localhost:1313/posts/2025/10/my-test-6/</link>
+            <pubDate>Mon, 06 Oct 2025 18:54:57 +0300</pubDate>
+            
+            <guid>http://localhost:1313/posts/2025/10/my-test-6/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>My Test 5</title>
+            <link>http://localhost:1313/posts/2025/10/my-test-5/</link>
+            <pubDate>Mon, 06 Oct 2025 18:54:51 +0300</pubDate>
+            
+            <guid>http://localhost:1313/posts/2025/10/my-test-5/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>My Test 4</title>
+            <link>http://localhost:1313/posts/2025/10/my-test-4/</link>
+            <pubDate>Mon, 06 Oct 2025 18:54:38 +0300</pubDate>
+            
+            <guid>http://localhost:1313/posts/2025/10/my-test-4/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>My Test 3</title>
+            <link>http://localhost:1313/posts/2025/10/my-test-3/</link>
+            <pubDate>Mon, 06 Oct 2025 18:54:29 +0300</pubDate>
+            
+            <guid>http://localhost:1313/posts/2025/10/my-test-3/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
         
         <item>
             <title>My Test 2</title>
