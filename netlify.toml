@@ -1,8 +1,13 @@
-[build]
-publish = "public"  // default hugo build folder
-command = "hugo --gc --minify" // hugo build command
+[build.environment]
+DART_SASS_VERSION = "1.93.2"
+GO_VERSION = "1.25.1"
+HUGO_VERSION = "0.151.0"
+NODE_VERSION = "22.18.0"
+TZ = "Europe/Sofia"
 
-[context.production.environment]
-HUGO_VERSION = "0.62.1"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+[build]
+publish = "public"
+command = """\
+  git config core.quotepath false && \
+  hugo --gc --minify --baseURL "${URL}"
+  """
