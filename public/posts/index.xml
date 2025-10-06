@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Welcome</title>
+        <title>Posts on Здравейте!</title>
         <link>http://localhost:1313/posts/</link>
-        <description>Recent content in Posts on Welcome</description>
+        <description>Recent content in Posts on Здравейте!</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>bg</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Mon, 06 Oct 2025 18:54:57 +0300</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -60,15 +60,17 @@
         </item>
         
         <item>
-            <title>My Test 1</title>
-            <link>http://localhost:1313/posts/2024/10/my-test-1/</link>
+            <title>Дебиан</title>
+            <link>http://localhost:1313/posts/2024/10/%D0%B4%D0%B5%D0%B1%D0%B8%D0%B0%D0%BD/</link>
             <pubDate>Fri, 04 Oct 2024 14:53:24 +0300</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/10/my-test-1/</guid>
-            <description>&lt;p&gt;Dobre
-Сега на къде&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p>Dobre
-Сега на къде</p>
+            <guid>http://localhost:1313/posts/2024/10/%D0%B4%D0%B5%D0%B1%D0%B8%D0%B0%D0%BD/</guid>
+            <description>&lt;p&gt;Статия за любимата им операционна система!
+Dobre&lt;/p&gt;
+&lt;p&gt;Сега на къде?&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Статия за любимата им операционна система!
+Dobre</p>
+<p>Сега на къде?</p>
 ]]></content>
         </item>
         
