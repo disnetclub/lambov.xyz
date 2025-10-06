@@ -225,7 +225,7 @@ disableHugoGeneratorInject = false
   #
   [[params.social]]
     name = "tryhackme"
-    url  = "https://tryhackme.com/"
+    url  = "https://tryhackme.com/p/1amb0v"
 
   [[params.social]]
     name = "email"
